@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="roll">Roll</string>
+    <string name="textview">1</string>
+    <string name="click_on_the_roll_button">Click on the Roll button</string>
+    <string name="todo">TODO</string>
+    <string name="if_you_got_6_you_win">If You Got 6 ,You Win</string>
+</resources>
